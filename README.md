@@ -1,3 +1,7 @@
+## Read this!
+If you search up my name on Google, in most sites that appear to tell you how to block GoGuardian, they add my name into it. DON'T OPEN THESE SITES!
+They commonly have the .de domain.
+
 ![NoGuardian icon](https://github.com/bensyxx/NoGuardian/blob/main/NoGuardian.png)
 
 ## NoGuardian
