@@ -1,8 +1,5 @@
-## Read this!
-If you search up my name on Google, in most sites that appear to tell you how to block GoGuardian, they add my name into it. DON'T OPEN THESE SITES!
-They commonly have the .de domain.
-
-![NoGuardian icon](https://github.com/bensyxx/NoGuardian/blob/main/NoGuardian.png)
+### Before saying that this dosen't work,
+You're right. I haven't picked up the pace on this new version, but you can try with the old NoGuardian extension here: https://github.com/bensyxx/Legacy-NoGuardian/README.md
 
 ## NoGuardian
 NoGuardian is a tool that attempts to block or remove GoGuardian. It works on most chrome browsers and is pretty simple to install if you're used to Google Chrome Basics.
