@@ -1,5 +1,5 @@
 ### Before saying that this dosen't work,
-You're right. I haven't picked up the pace on this new version, but you can try with the old NoGuardian extension here: https://github.com/bensyxx/Legacy-NoGuardian/README.md
+You're right. I haven't picked up the pace on this new version, but you can try with the old NoGuardian extension here: [https://github.com/bensyxx/Legacy-NoGuardian/README.md](https://github.com/bensyxx/Legacy-NoGuardian#readme)
 
 ## NoGuardian
 NoGuardian is a tool that attempts to block or remove GoGuardian. It works on most chrome browsers and is pretty simple to install if you're used to Google Chrome Basics.
