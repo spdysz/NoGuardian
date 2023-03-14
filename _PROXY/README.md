@@ -1,0 +1,1 @@
+The proxy server on NoGuardian is powered by Reflect4, which is developed by CroxyProxy. This file only redirects to the web proxy's homepage, which can be found [here](https://www-www.carnegielearnning.com).
