@@ -10,4 +10,4 @@ NoGuardian Blocker is only compatiable with the GoGuardian extension. However, y
 
 ## Credits & More mumbo jumbo
 
-This tool is developed by [Bensyxx](https://github.com/bensyxx).
+This tool is developed by [Bensyxx](https://github.com/bensyxx) and [null184](https://github.com/null184)
