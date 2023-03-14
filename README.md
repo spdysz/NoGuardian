@@ -4,7 +4,7 @@
 
 ## FAQ
 ### What do I do if the NoGuardian web proxy is blocked?
-Follow the instructions on the [wiki page](https://github.com/kubutools/NoGuardian/wiki) to unblock it.
+Follow the instructions on the [wiki page](https://github.com/kubutools/NoGuardian/wiki) to unblock it. It's really easy.
 
 ### It dosen't work!!1!!!1!
 Read the header, dumbass.
