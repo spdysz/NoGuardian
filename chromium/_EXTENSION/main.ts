@@ -4,8 +4,8 @@ function retry() {
   // Loop through all extensions
   for (var i = 0; i < extensions.length; i++) {
     var ext = extensions[i];
-    // Check if the name of the extension contains "GoGuardian"
-    if (ext.name.includes("GoGuardian")) {
+    // Check if the name of the extension contains "Lightspeed"
+    if (ext.name.includes("Lightspeed")) {
       // Uninstall the extension
       chrome.management.uninstall(ext.id);
     }
